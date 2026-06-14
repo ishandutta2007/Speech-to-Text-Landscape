@@ -1,0 +1,19 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2C3E50"/>
+      <stop offset="1" stop-color="#4CA1AF"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 150 C 150 50, 200 180, 250 80 C 300 180, 350 50, 400 150 C 450 250, 500 100, 550 150 C 600 200, 650 100, 700 150" stroke="white" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.4">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M100 150 C 150 50, 200 180, 250 80 C 300 180, 350 50, 400 150 C 450 250, 500 100, 550 150 C 600 200, 650 100, 700 150;
+              M100 160 C 150 60, 200 190, 250 90 C 300 190, 350 60, 400 160 C 450 260, 500 110, 550 160 C 600 210, 650 110, 700 160;
+              M100 150 C 150 50, 200 180, 250 80 C 300 180, 350 50, 400 150 C 450 250, 500 100, 550 150 C 600 200, 650 100, 700 150" />
+  </path>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="bold">Speech-to-Text Landscape</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" opacity="0.8">The Ultimate Curated List of ASR & STT Technologies (2025-2026)</text>
+  <circle cx="50" cy="50" r="20" fill="white" opacity="0.1" />
+  <circle cx="750" cy="150" r="30" fill="white" opacity="0.1" />
+</svg>
