@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/github/license/ishandutta2007/Speech-to-Text-Landscape" alt="License">
   <img src="https://img.shields.io/github/stars/ishandutta2007/Speech-to-Text-Landscape" alt="Stars">
   <img src="https://img.shields.io/github/forks/ishandutta2007/Speech-to-Text-Landscape" alt="Forks">
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 </p>
 
 <p align="center">
