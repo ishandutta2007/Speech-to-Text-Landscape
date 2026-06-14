@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Speech-to-Text Landscape Banner" width="800">
+  <a href="https://github.com/ishandutta2007/Speech-to-Text-Landscape">
+    <img src="assets/banner.svg" alt="Speech-to-Text Landscape Banner" width="800">
+  </a>
 </p>
 
 <h1 align="center">🎙️ Speech-to-Text Landscape (ASR/STT) 🚀</h1>
@@ -22,13 +24,13 @@
 <hr>
 
 ## 📖 Table of Contents
-- [🚀 State-of-the-Art Open Source Models](#-state-of-the-art-open-source-models-2025-2026)
-- [🏢 Commercial Speech-to-Text Services (SaaS)](#-commercial-speech-to-text-services-saas)
-- [🛠️ Modern Tools & Community Recommendations](#️-modern-tools--community-recommendations)
-- [📄 Recent Research Papers](#-recent-research-papers-2025-2026)
-- [🏛️ Legacy & Historical Projects](#️-legacy--historical-projects)
-- [📢 Community Resources](#-community-resources)
-- [🤝 Contributing](#-contributing)
+- [🚀 State-of-the-Art Open Source Models](#state-of-the-art-open-source-models-2025-2026)
+- [🏢 Commercial Speech-to-Text Services (SaaS)](#commercial-speech-to-text-services-saas)
+- [🛠️ Modern Tools & Community Recommendations](#modern-tools--community-recommendations)
+- [📄 Recent Research Papers](#recent-research-papers-2025-2026)
+- [🏛️ Legacy & Historical Projects](#legacy--historical-projects)
+- [📢 Community Resources](#community-resources)
+- [🤝 Contributing](#contributing)
 
 <hr>
 
