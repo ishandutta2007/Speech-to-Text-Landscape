@@ -11,6 +11,9 @@
   [![Stars](https://img.shields.io/github/stars/ishandutta2007/Speech-to-Text-Landscape?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape/stargazers)
   [![Forks](https://img.shields.io/github/forks/ishandutta2007/Speech-to-Text-Landscape?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape/network/members)
   [![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
 
   **A comprehensive, curated collection of the best Speech-to-Text (STT) and Automatic Speech Recognition (ASR) technologies, including state-of-the-art open-source models, commercial SaaS APIs, and cutting-edge research.**
 
