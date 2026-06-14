@@ -1,25 +1,20 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/ishandutta2007/Speech-to-Text-Landscape">
     <img src="assets/banner.svg" alt="Speech-to-Text Landscape Banner" width="800">
   </a>
-</p>
 
-<h1 align="center">🎙️ Speech-to-Text Landscape (ASR/STT) 🚀</h1>
+  # 🎙️ Speech-to-Text Landscape (ASR/STT) 🚀
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
-  <img src="https://img.shields.io/badge/Awesome-Speech%20to%20Text-orange.svg" alt="Awesome STT">
-  <img src="https://img.shields.io/github/license/ishandutta2007/Speech-to-Text-Landscape" alt="License">
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Speech-to-Text-Landscape" alt="Stars">
-  <img src="https://img.shields.io/github/forks/ishandutta2007/Speech-to-Text-Landscape" alt="Forks">
-  <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
-</p>
+  [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape)
+  [![Awesome STT](https://img.shields.io/badge/Awesome-Speech%20to%20Text-orange.svg?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape)
+  [![License](https://img.shields.io/github/license/ishandutta2007/Speech-to-Text-Landscape?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape/blob/master/LICENSE)
+  [![Stars](https://img.shields.io/github/stars/ishandutta2007/Speech-to-Text-Landscape?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape/stargazers)
+  [![Forks](https://img.shields.io/github/forks/ishandutta2007/Speech-to-Text-Landscape?style=for-the-badge)](https://github.com/ishandutta2007/Speech-to-Text-Landscape/network/members)
+  [![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishandutta2007)
 
-<p align="center">
-  <b>A comprehensive, curated collection of the best Speech-to-Text (STT) and Automatic Speech Recognition (ASR) technologies, including state-of-the-art open-source models, commercial SaaS APIs, and cutting-edge research.</b>
-</p>
+  **A comprehensive, curated collection of the best Speech-to-Text (STT) and Automatic Speech Recognition (ASR) technologies, including state-of-the-art open-source models, commercial SaaS APIs, and cutting-edge research.**
+
+</div>
 
 <hr>
 
